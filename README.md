@@ -1,11 +1,11 @@
 
- 💫 About Me:<br>
- 👋 Hi, I'm Yashu!<br><br>
+ # 💫 About Me: <br>
+ # 👋 Hi, I'm Yashu!<br><br>
 🎓 **B.Tech CSE – Data Science Student**<br><br>
 🔐 Passionate about **Networking, and SOC Analysis**.<br><br>
 💻 I’m interested in understanding how systems and networks work, identifying security vulnerabilities, monitoring threats, and learning how to protect digital infrastructure.<br><br>
- 🛡️ Areas of Interest<br><br>
-* 🖥️ SOC Analysis<br>* 🌐 Computer Networking<br>* 📡 CCNA & Network Security<br>* 🚨 Threat Detection <br>* 🐧 Linux & Security Tools<br>* 🌐 Web & API Security<br><br> 🧰 Technologies & Skills<br><br>**• Linux • SQL • PostgreSQL • Networking • CCNA **<br><br> 🚀 Currently Learning<br><br>** SOC Operations | Networking | Linux | Security Monitoring *<br><br>> 🔐 Learn • Build • Secure • Improve<br>
+# 🛡️ Areas of Interest<br><br>
+* 🖥️ SOC Analysis<br>* 🌐 Computer Networking<br>* 📡 CCNA & Network Security<br>* 🚨 Threat Detection <br>* 🐧 Linux & Security Tools<br>* 🌐 Web & API Security<br><br>**🧰 Technologies & Skills<br><br>**• Linux • SQL • PostgreSQL • Networking • CCNA **<br><br>**🚀 Currently Learning<br><br>** SOC Operations | Networking | Linux | Security Monitoring *<br><br>> 🔐 Learn • Build • Secure • Improve<br>
 
 
  🌐 Socials:
